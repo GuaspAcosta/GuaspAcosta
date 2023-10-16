@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @GuaspAcosta a JR development i been working o wordpress projects and touching html css and bootstrap.
-- 👀 I’m interested in working as a remote software development.
-- 🌱 I’m currently learning javascript and after that i will start on React
-- 💞️ I’m looking to collaborate on many projects as can be posible
+- 👋 Hi, I’m @GuaspAcosta a 
 - 📫 How to reach me www.linkedin.com/in/juan-guasp/
 
 <!---
